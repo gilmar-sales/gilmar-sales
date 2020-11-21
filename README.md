@@ -1,5 +1,4 @@
 ### Working on ECS System
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gilmarxd&show_icons=true&locale=en&layout=compact" alt="gilmarxd" /></p><br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gilmarxd&show_icons=true&locale=en" alt="gilmarxd" /></p>
+[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=gilmarxd&show_icons=true&count_private=true&include_all_commits=true&hide_border=true)](https://github.com/goncadanilo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilmarxd&layout=compact&hide_border=true)](https://github.com/gilmarxd)
