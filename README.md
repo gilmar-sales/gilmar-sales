@@ -3,5 +3,5 @@
 - Working on ECS System
 - Performance matters!
 
-[![Gilmar's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilmar-sales&theme=github_dark&hide_border=true)](https://github.com/gilmar-sales)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilmar-sales&theme=github_dark&hide_border=true)](https://github.com/gilmar-sales)
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/gilmar-sales?cardType=level-alternate&fontFamily=&preferLogin=true)](https://git.io/awesome-stats-card)
